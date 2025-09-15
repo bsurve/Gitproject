@@ -1,2 +1,6 @@
 This is another file
+
 hello feat-2
+Hello from feat 1
+Hello from feat 3
+
